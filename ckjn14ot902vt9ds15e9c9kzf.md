@@ -46,7 +46,7 @@ xcrun altool --upload-app -f $1 \
 Save the file somewhere handy, and make it executable with this command:
 
 ```
-chmod +x upload_ipa/sh
+chmod +x upload_ipa.sh
 ```
 
 ## Use the script
